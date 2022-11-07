@@ -1,0 +1,15 @@
+{
+    "person": {
+        "firstName":"Leevon",
+        "lastName":"Mortel"
+    },
+    "work": {
+        "job":"faculty",
+        "program": "Digital Design and Develoment Diploma",
+        "url": "https://www.bcit.ca/programs/applied-software-development-asd-associate-certificate-part-time-6958acert/?gclid=EAIaIQobChMI6rur_tec-wIVuRKtBh0lVQ35EAAYASAAEgLFiPD_BwE&gclsrc=aw.ds"
+    },
+    "study": {
+        "programs": ["Applied Software Development Certificate", "Computer Systems Certificate", "Computer Systems Diploma"],
+        "department": "School of Computing & Information Technology"
+    }
+}
